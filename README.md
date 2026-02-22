@@ -37,11 +37,18 @@ The project schedule was developed using **Microsoft Project** and includes:
 - Task dependencies and logical sequencing  
 - Critical milestones  
 - Baseline planning  
-- Planned vs actual tracking  
+- Planned vs actual tracking
+
+---
+
+## 📁 Repository Structure
+- **docs/** → Executive presentation and integrative report  
+- **schedule/** → Original Microsoft Project planning file  
+- **assets/** → Visual resources used in the README  
 
 ### Executive Gantt Overview
 
-![Executive Gantt](assets/uala-gantt-preview.png)
+![Executive Gantt](assets/uala-gantt-executive-view.png)
 
 The repository includes the original `.mpp` file and an executive visualization of the Gantt diagram.
 
